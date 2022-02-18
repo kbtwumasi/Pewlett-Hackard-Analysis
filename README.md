@@ -7,7 +7,7 @@ The purpose of this project is to create databases and query the data to provide
 
 ## **Results**
 
-![Retiring employees grouped by title] (/Data/retiring_employees_by_title.png)
+![Retiring employees grouped by title](/Data/retiring_employees_by_title.png)
 
 After the analysis of the employee information, the following conclusions were reached; 
 
