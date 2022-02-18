@@ -7,17 +7,17 @@ The purpose of this project is to create databases and query the data to provide
 
 ## **Results**
 
-After the analysis of the employee information, the following conclusions were reached. 
-![Retiring employees grouped by title] (/data/retiring_employees_by_title.png)
+![Retiring employees grouped by title] (/Data/retiring_employees_by_title.png)
 
-	- Based on employees who were born between January 1, 1952 and December 31, 1955, 72,458 current employees will be affected during the ’silver tsunami’
+After the analysis of the employee information, the following conclusions were reached; 
 
-	- Out of the total reaching retirement age, majority are senior engineers with total employees of 25,916, followed by Senior staff with 24,926, 9,285 Engineers, 7,636 staffs, 3,603 technique leaders, 1,090 assistant engineers and 2 managers.
+- Based on employees who were born between January 1, 1952 and December 31, 1955, 72,458 current employees will be affected during the ’silver tsunami’
+- Out of the total reaching retirement age, majority are senior engineers with total employees of 25,916, followed by Senior staff with 24,926, 9,285 Engineers, 7,636 staffs, 3,603 technique leaders, 1,090 assistant engineers and 2 managers.
 
-![Employees Eligible for Mentorship](/data/eligible_mentorship.png)
+![Employees Eligible for Mentorship](/Data/eligible_mentorship.png)
 
-	- a total of 1,549 current employees with birth dates between Jan 1, 1965 and December 31,1965 are eligible for the mentorship program. However, that is far less than employees retirng soon. 
-	- Out of the total current employees eligible for the mentorship program, 417 are senior staff, 401 are engineers, 307 are staff, 284 are senior engineers, 77 are assistant engineers and 63 technical leaders. No current employee is eligible for mentorship program for manager.
+- a total of 1,549 current employees with birth dates between Jan 1, 1965 and December 31,1965 are eligible for the mentorship program. However, that is far less than employees retirng soon. 
+- Out of the total current employees eligible for the mentorship program, 417 are senior staff, 401 are engineers, 307 are staff, 284 are senior engineers, 77 are assistant engineers and 63 technical leaders. No current employee is eligible for mentorship program for manager.
 
 ## **Summary**
 
